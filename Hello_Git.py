@@ -1,5 +1,5 @@
 print("Este es un mensaje de prueba")
-print("Nueva funcionalidad")
-
+print("Funcionalidad Suma")
+print("Funcionalidad Resta")
 print("Funcionalidad Multiplicacion")
 print("Funcionalidad Division")
