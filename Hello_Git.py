@@ -2,23 +2,28 @@ import math
 
 print("Calculadora")
 
-def sumar(x,y):
-    return x + y
+class Calculadora():
 
-def resta(x,y):
-    return x- y
+    def sumar(x,y):
+        return x + y
 
-def multiplicacion(x, y):
-    return x * y
+    def resta(x,y):
+        return x- y
 
-def division(x,y):
-    return x/y
+    def multiplicacion(x, y):
+        return x * y
 
-def potencia(x):
-    return x**2
+    def division(x,y):
+        return x/y
 
-def raiz(x):
-    return math.sqrt(x)
+    def raiz(x):
+        return math.sqrt(x)
 
+    def potencia(x):
+        return x**2
 
-sumar(int(input("numero")))
+    def raiz(x):
+        return math.sqrt(x)
+
+calculadora = Calculadora()
+calculadora.raiz(int(input("numero")))
