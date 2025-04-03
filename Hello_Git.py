@@ -1,8 +1,9 @@
 import math
 
-print("Calculadora")
+print("*** Calculadora ****")
 
 class Calculadora():
+    """Es una clase imitando una calculadora"""
 
     def sumar(x,y):
         return x + y
@@ -23,4 +24,9 @@ class Calculadora():
         return x**2
 
 calculadora = Calculadora()
+calculadora.raiz(int(input("numero")))
+calculadora.raiz(int(input("numero")))
+calculadora.raiz(int(input("numero")))
+calculadora.raiz(int(input("numero")))
+calculadora.raiz(int(input("numero")))
 calculadora.raiz(int(input("numero")))
