@@ -28,3 +28,8 @@ class Calculadora():
 
 calculadora = Calculadora()
 calculadora.raiz(int(input("numero")))
+calculadora.raiz(int(input("numero")))
+calculadora.raiz(int(input("numero")))
+calculadora.raiz(int(input("numero")))
+calculadora.raiz(int(input("numero")))
+calculadora.raiz(int(input("numero")))
