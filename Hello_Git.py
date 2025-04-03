@@ -1,5 +1,4 @@
-print("Este es un mensaje de prueba")
-print("Funcionalidad Suma")
-print("Funcionalidad Resta")
-print("Funcionalidad Multiplicacion")
-print("Funcionalidad Division")
+print("Calculadora")
+
+def sumar(x,y):
+    return x + y
