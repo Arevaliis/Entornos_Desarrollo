@@ -3,6 +3,7 @@ import math
 print("Calculadora")
 
 class Calculadora():
+    """Es una clase imitando una calculadora"""
 
     def sumar(x,y):
         return x + y
