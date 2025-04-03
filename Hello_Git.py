@@ -22,8 +22,5 @@ class Calculadora():
     def potencia(x):
         return x**2
 
-    def raiz(x):
-        return math.sqrt(x)
-
 calculadora = Calculadora()
 calculadora.raiz(int(input("numero")))
