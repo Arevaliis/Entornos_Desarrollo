@@ -1,2 +1,3 @@
 print("Este es un mensaje de prueba")
-print("Nueva funcionalidad")
+print("Funcionalidad Sumar")
+print("Nueva funcionalidad resta")
