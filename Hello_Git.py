@@ -19,3 +19,6 @@ def potencia(x):
 
 def raiz(x):
     return math.sqrt(x)
+
+
+sumar(int(input("numero")))
