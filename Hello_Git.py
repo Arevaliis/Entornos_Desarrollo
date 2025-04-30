@@ -24,9 +24,3 @@ class Calculadora():
         return x**2
 
 calculadora = Calculadora()
-calculadora.raiz(int(input("numero")))
-calculadora.raiz(int(input("numero")))
-calculadora.raiz(int(input("numero")))
-calculadora.raiz(int(input("numero")))
-calculadora.raiz(int(input("numero")))
-calculadora.raiz(int(input("numero")))
